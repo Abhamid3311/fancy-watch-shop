@@ -3,72 +3,72 @@
         "name": "Rolex: Explorer II Black Dial 40mm Men's Watch",
         "id": "102",
         "price": 2000,
-        "img": "../src/images/pic-1.jpg"
+        "img": "https://images.unsplash.com/photo-1620625515032-6ed0c1790c75?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
     },
     {
-        " name": "Rolex: Oyster Perpetual Air-King Black Dial Men's Watch",
+        "name": "Rolex: Oyster Perpetual Air-King Black Dial Men's Watch",
         "id": "103",
         "price": 2500,
-        "img": "../src/images/pic-2.jpg"
+        "img": "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     },
     {
-        " name": "Rolex: Sea-Dweller Gold & Oystersteel Men's Watch",
+        "name": "Rolex: Sea-Dweller Gold & Oystersteel Men's Watch",
         "id": "104",
         "price": 1700,
-        "img": "../src/images/pic-3.jpg"
+        "img": "https://images.unsplash.com/photo-1606744188285-d0a49e58f538?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
     {
-        " name": "Rolex: Lady-Datejust 26 Concentric Circle Black Dial Watch",
+        "name": "Rolex: Lady-Datejust 26 Concentric Circle Black Dial Watch",
         "id": "105",
         "price": 2200,
-        "img": "../src/images/pic-4.jpg"
+        "img": "https://images.unsplash.com/photo-1587836374828-4dbafa94cf0e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     },
     {
-        " name": "Rolex: Cosmograph Daytona Steel Bezel Black Dial ",
+        "name": "Rolex: Cosmograph Daytona Steel Bezel Black Dial ",
         "id": "106",
         "price": 2300,
-        "img": "../src/images/pic-5.jpg"
+        "img": "https://images.unsplash.com/photo-1611243705491-71487c2ed137?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
     {
-        " name": "Cosmograph Daytona Steel Bezel Black Dial ",
+        "name": "Cosmograph Daytona Steel Bezel Black Dial ",
         "id": "107",
         "price": 1500,
-        "img": "../src/images/pic-6.jpg"
+        "img": "https://images.unsplash.com/photo-1594534475808-b18fc33b045e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     },
     {
-        " name": "Mens Tissot Chrono XL Chronograph Watch",
+        "name": "Mens Tissot Chrono XL Chronograph Watch",
         "id": "108",
         "price": 1900,
-        "img": "../src/images/pic-7.jpg"
+        "img": "https://images.unsplash.com/photo-1619976396248-56d05beb2919?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
     },
     {
-        " name": "Mens Hugo Boss Hero Chronograph Watch",
+        "name": "Mens Hugo Boss Hero Chronograph Watch",
         "id": "109",
         "price": 3500,
-        "img": "../src/images/pic-8.jpg"
+        "img": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
     {
-        " name": "Unisex Cluse Minuit Watch",
+        "name": "Unisex Cluse Minuit Watch",
         "id": "110",
         "price": 7000,
-        "img": "../src/images/pic-9.jpg"
+        "img": "https://images.unsplash.com/photo-1526045431048-f857369baa09?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     },
     {
-        " name": "Mens Vivienne Westwood The Cranbourne Watch",
+        "name": "Mens Vivienne Westwood The Cranbourne Watch",
         "id": "111",
         "price": 8000,
-        "img": "../src/images/pic-10.jpg"
+        "img": "https://images.unsplash.com/photo-1619976442556-210d9a914669?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80"
     },
     {
-        " name": "Gents Tommy Hilfiger Cooper Watch 1791513",
+        "name": "Gents Tommy Hilfiger Cooper Watch 1791513",
         "id": "112",
         "price": 6600,
-        "img": "../src/images/pic-11.jpg"
+        "img": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     },
     {
-        " name": "Mens Rotary Limited Edition Prostate Cancer UK Chronograph Watch 1IN8",
+        "name": "Mens Rotary Limited Edition Prostate Cancer UK Chronograph Watch 1IN8",
         "id": "113",
         "price": 15000,
-        "img": "../src/images/pic-12.jpg"
+        "img": "https://images.unsplash.com/photo-1610897534349-7759782118b9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     }
 ]

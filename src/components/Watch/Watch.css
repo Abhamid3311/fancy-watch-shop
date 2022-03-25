@@ -1,0 +1,31 @@
+.watch-cart{
+    border: 1px solid lightcoral;
+    border-radius: 15px;
+    height: 450px;
+    width: 280px;
+    position: relative;
+}
+.watch-cart img{
+    width: 260px;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 15px;
+    padding: 10px;
+}
+.watch-info{
+    padding-left: 10px;
+}
+.btn-add-cart{
+    font-weight: bold;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background-color: orange;
+    border-radius: 0 0px 8px 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-add-cart p{
+    margin-right: 10px;
+}
