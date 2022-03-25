@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Rolex: Explorer II Black Dial 40mm Men's Watch",
+        "id": "102",
+        "price": 2000,
+        "img": "../src/images/pic-1.jpg"
+    },
+    {
+        " name": "Rolex: Oyster Perpetual Air-King Black Dial Men's Watch",
+        "id": "103",
+        "price": 2500,
+        "img": "../src/images/pic-2.jpg"
+    },
+    {
+        " name": "Rolex: Sea-Dweller Gold & Oystersteel Men's Watch",
+        "id": "104",
+        "price": 1700,
+        "img": "../src/images/pic-3.jpg"
+    },
+    {
+        " name": "Rolex: Lady-Datejust 26 Concentric Circle Black Dial Watch",
+        "id": "105",
+        "price": 2200,
+        "img": "../src/images/pic-4.jpg"
+    },
+    {
+        " name": "Rolex: Cosmograph Daytona Steel Bezel Black Dial ",
+        "id": "106",
+        "price": 2300,
+        "img": "../src/images/pic-5.jpg"
+    },
+    {
+        " name": "Cosmograph Daytona Steel Bezel Black Dial ",
+        "id": "107",
+        "price": 1500,
+        "img": "../src/images/pic-6.jpg"
+    },
+    {
+        " name": "Mens Tissot Chrono XL Chronograph Watch",
+        "id": "108",
+        "price": 1900,
+        "img": "../src/images/pic-7.jpg"
+    },
+    {
+        " name": "Mens Hugo Boss Hero Chronograph Watch",
+        "id": "109",
+        "price": 3500,
+        "img": "../src/images/pic-8.jpg"
+    },
+    {
+        " name": "Unisex Cluse Minuit Watch",
+        "id": "110",
+        "price": 7000,
+        "img": "../src/images/pic-9.jpg"
+    },
+    {
+        " name": "Mens Vivienne Westwood The Cranbourne Watch",
+        "id": "111",
+        "price": 8000,
+        "img": "../src/images/pic-10.jpg"
+    },
+    {
+        " name": "Gents Tommy Hilfiger Cooper Watch 1791513",
+        "id": "112",
+        "price": 6600,
+        "img": "../src/images/pic-11.jpg"
+    },
+    {
+        " name": "Mens Rotary Limited Edition Prostate Cancer UK Chronograph Watch 1IN8",
+        "id": "113",
+        "price": 15000,
+        "img": "../src/images/pic-12.jpg"
+    }
+]
