@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+## Fancy Watch Shop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project Created by React  [Fancy Watch Shop](https://fancy-watch-shop.netlify.app/).
 
 ## Available Scripts
 
