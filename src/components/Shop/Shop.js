@@ -6,19 +6,26 @@ import './Shop.css';
 const Shop = () => {
     const [watches, setWatches] = useState([]);
     const [cart, setCart] = useState([]);
+
+    console.log(cart);
+
     useEffect(() => {
         fetch('watches.json')
             .then(res => res.json()).then(data => setWatches(data));
     }, []);
+
+    //add cart
     let newCart;
     const handleAddToCart = (watches) => {
         newCart = [...cart, watches];
         setCart(newCart);
     };
+
+    //reset cart
     const handleReset = () => {
         newCart = [];
         setCart(newCart);
-    }
+    };
     return (
         <div className='shop-container'>
             <div className="watch-container">
@@ -36,10 +43,7 @@ const Shop = () => {
                     cart={cart}
                     handleReset={handleReset}
                 ></Cart>
-
             </div>
-
-
         </div>
     );
 };
