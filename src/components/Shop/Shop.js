@@ -10,8 +10,13 @@ const Shop = () => {
         fetch('watches.json')
             .then(res => res.json()).then(data => setWatches(data));
     }, []);
+    let newCart;
     const handleAddToCart = (watches) => {
-        const newCart = [...cart, watches];
+        newCart = [...cart, watches];
+        setCart(newCart);
+    };
+    const handleReset = () => {
+        newCart = [];
         setCart(newCart);
     }
     return (
@@ -29,6 +34,7 @@ const Shop = () => {
             <div className="cart-container">
                 <Cart
                     cart={cart}
+                    handleReset={handleReset}
                 ></Cart>
 
             </div>

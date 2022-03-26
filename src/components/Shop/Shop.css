@@ -1,6 +1,7 @@
 .shop-container{
     display: grid;
     grid-template-columns: 3fr 1fr;
+    position: relative;
 }
 .watch-container{
     display: grid;
@@ -10,10 +11,26 @@
     margin-left: 20px;
 }
 .cart-container{
-    background-color: orange;
-    height: 50vh;
+    background-color: lightsteelblue;
+    max-width: 300px;
+    position: absolute;
+    top: 100px;
+    right: 0;
+    border-radius: 15px 0 0 15px;
 }
 
+
+
+
+/* Tablet Responsive */
+@media only screen and (max-width: 1200px) {
+    .shop-container{
+        grid-template-columns: 2fr 1fr;
+    }
+    .watch-container{
+        grid-template-columns: repeat(2,1fr);
+    }
+}
 
 /* Mobile Responsive */
 
@@ -23,15 +40,5 @@
     }
     .watch-container{
         grid-template-columns: repeat(1,1fr);
-    }
-}
-
-/* Tablet Responsive */
-@media only screen and (max-width: 1200px) {
-    .shop-container{
-        grid-template-columns: 2fr 1fr;
-    }
-    .watch-container{
-        grid-template-columns: repeat(2,1fr);
     }
 }

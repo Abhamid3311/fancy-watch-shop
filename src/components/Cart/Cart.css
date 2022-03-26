@@ -3,6 +3,18 @@
     top: 0;
     padding: 10px 10px;
 }
-/* .cart h4{
-    display: inline-block;
-} */
+.btn{
+    
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    border-radius: 8px;
+}
+.btn-choose{
+    border: 1px solid green;
+    color: green;
+}
+.btn-reset{
+    border: 1px solid red;
+    color: red;
+}
