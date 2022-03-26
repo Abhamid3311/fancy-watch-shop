@@ -5,8 +5,11 @@ import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 
 
 const Watch = (props) => {
-    console.log(props);
-    const { name, price, img } = props.watch;
+
+    const { watch, handleAddToCart } = props;
+    const { name, price, img } = watch;
+
+
     return (
         <div className='watch-cart'>
             <img src={img} alt="" />
@@ -16,7 +19,7 @@ const Watch = (props) => {
                 <p>Price: ${price}</p>
             </div>
 
-            <button className='btn-add-cart'>
+            <button onClick={() => handleAddToCart(watch)} className='btn-add-cart'>
                 <p>Add to cart</p>
                 <FontAwesomeIcon icon={faShoppingCart} />
             </button>

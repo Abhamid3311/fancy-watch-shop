@@ -4,6 +4,7 @@
     height: 450px;
     width: 280px;
     position: relative;
+    
 }
 .watch-cart img{
     width: 260px;
@@ -25,6 +26,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.btn-add-cart:hover{
+    background-color: tomato;
 }
 .btn-add-cart p{
     margin-right: 10px;
