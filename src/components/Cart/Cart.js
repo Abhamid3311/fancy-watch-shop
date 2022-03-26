@@ -16,6 +16,8 @@ const Cart = (props) => {
             <h2>Selected Watches: {
                 cart.length <= 4 ? (cart.length) : (alert('More than 4 watches'))
             }</h2>
+
+
             <div>
                 <h1>{watchName} </h1>
             </div>
