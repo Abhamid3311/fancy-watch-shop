@@ -12,7 +12,7 @@ const Watch = (props) => {
 
     return (
         <div className='watch-cart'>
-            <img src={img} alt="" />
+            <img src={img} alt="watch" />
 
             <div className='watch-info'>
                 <h3>{name}</h3>

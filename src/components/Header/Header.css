@@ -1,29 +1,28 @@
-.header{
+.header {
     background-color: lightslategray;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.logo{
+
+.logo {
     display: flex;
     align-items: center;
 }
-.logo h3{
-    color: white;
-    font-size: 35px;
-    margin-left: 10px;
-}
-.header img{
-    width: 100px;
-    height: 100px;
-    margin-left: 20px;
-}
-.nav-bar a{
-    text-decoration: none;
+
+.logo h3 {
     color: white;
     font-size: 25px;
+    margin-left: 10px;
+}
+
+.nav-bar a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
     margin-right: 20px;
 }
-.nav-bar a:hover{
+
+.nav-bar a:hover {
     color: orange;
 }
